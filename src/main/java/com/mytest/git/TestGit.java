@@ -8,6 +8,7 @@ public class TestGit {
 		System.out.println("dddd");
 		System.out.println("right-zhuwenquan2019");
 		System.out.println("left-");
+		System.out.println("Branch_1 分支测试");
 	}
 
 }
